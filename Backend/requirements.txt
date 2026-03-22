@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+tensorflow
+keras
+numpy
+opencv-python-headless  # For image processing in a server environment
+librosa                 # For audio feature extraction
+scikit-learn            # For StandardScaler (if needed)
